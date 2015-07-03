@@ -13,7 +13,7 @@ Simple Contact Form for your WordPress website.
 
 == Description ==
 Contact Form By Sweet is a simple Contact Form Plugin, so easy you just have to  activate the plugin and insert the shortcode [sweetcontact-form form='1'] into a page or a post.
-we are goind to add some cool feature to this Contact Form plugin real soon.
+we are going to add some cool feature to this Contact Form plugin real soon.
 ...
 
 Features:
